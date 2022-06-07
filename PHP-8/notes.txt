@@ -1,0 +1,5 @@
+Metodo de solicitação de envio
+$_SERVER['REQUEST_METHOD']
+
+é o caminho para o próprio arquivo em questão
+$_SERVER["PHP_SELF"] 
